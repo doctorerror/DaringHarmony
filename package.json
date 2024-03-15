@@ -1,26 +1,42 @@
 {
-"name": "daringhttpharmony",
-"version": "1.0.0",
-"description": "This tool generates HTTP requests for testing purposes. It allows users to create and send custom HTTP requests, facilitating testing and debugging of web services and APIs.",
-"main": "index.js",
-"scripts": {},
-"repository": {
-"type": "git",
-"url": "https://github.com/doctorerror/DaringHarmony.git"
-},
-"keywords": [
-"sample",
-"npm",
-"package"
-],
-"author": "doctorerror",
-"license": "MIT",
-"dependencies": {
-"lodash": "^4.17.21",
-"axios": "^0.21.1"
-},
-"peerDependencies": {
-"react": ">=16.8.0",
-"react-dom": ">=16.8.0"
-}
+  "name": "daringhttpharmony",
+  "version": "2.5.3",
+  "description": "This tool generates HTTP requests for testing purposes. It allows users to create and send custom HTTP requests, facilitating testing and debugging of web services and APIs.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doctorerror/DaringHarmony.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package",
+    "tea",
+    "delicious",
+    "aroma",
+    "caffeine",
+    "relaxation",
+    "beverage"
+  ],
+  "author": "doctorerror",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1",
+    "chai": "^4.3.4",
+    "green-tea": "^2.3.1",
+    "jasmine": "^3.6.3",
+    "oolong": "^1.2.5",
+    "matcha": "^0.8.9",
+    "black-tea": "^3.1.2",
+    "earl-grey": "^1.0.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0",
+    "oolong": "^1.2.5",
+    "matcha": "^0.8.9",
+    "black-tea": "^3.1.2"
+  }
 }
